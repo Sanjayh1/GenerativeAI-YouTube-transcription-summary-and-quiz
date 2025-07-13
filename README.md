@@ -1,4 +1,4 @@
-# GenerativeAI - YouTube Transcription Summary and Quiz
+# Generative AI - YouTube Transcription Summary and Quiz
 
 This repository contains key Natural Language Processing (NLP) tasks utilizing the OpenAI API and Hugging Face.
 
